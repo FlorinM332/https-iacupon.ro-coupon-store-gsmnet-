@@ -46,3 +46,9 @@ Magazinul oferă peste 30.000 de produse pentru telefoane și dispozitive smart.
 ---
 
 🔥 Actualizat constant cu cele mai noi oferte.
+## Alte pagini
+
+* [GSMnet](https://USERNAME.github.io/cod-reducere-gsmnet/)
+* [Fragranza](https://USERNAME.github.io/cod-reducere-fragranza/)
+* [Aronia](https://USERNAME.github.io/cod-reducere-aronia/)
+
